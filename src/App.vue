@@ -15,5 +15,7 @@
 </script>
 
 <style>
-    /*每个页面公共css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 </style>

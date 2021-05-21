@@ -1,4 +1,4 @@
-# uniapp-tailwind
+# Uniapp + TailwindCSS Startup
 
 ## Project setup
 ```
