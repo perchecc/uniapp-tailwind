@@ -60,7 +60,9 @@
     "@vue/shared": "^3.0.0",
     "core-js": "^3.6.5",
     "flyio": "^0.6.2",
+    "node-sass": "4",
     "regenerator-runtime": "^0.12.1",
+    "sass-loader": "10",
     "vue": "^2.6.11",
     "vue-class-component": "^6.3.2",
     "vue-property-decorator": "^8.0.0",
@@ -90,8 +92,10 @@
     "miniprogram-api-typings": "*",
     "postcss": "^7.0.35",
     "postcss-comment": "^2.0.0",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2",
     "typescript": "^3.0.0",
+    "unocss": "^0.51.4",
+    "unocss-preset-weapp": "^0.5.3",
+    "unocss-webpack-uniapp2": "^0.1.4",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [

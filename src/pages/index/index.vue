@@ -8,19 +8,20 @@
 </template>
 
 <script lang="ts">
-import Vue from "vue"
+import Vue from "vue";
 export default Vue.extend({
   data() {
     return {
       title: "Hello",
-    }
+    };
   },
   onLoad() {},
   methods: {},
-})
+});
 </script>
 
-<style>
+<style lang="postcss" scoped>
+// 你好呀
 .content {
   display: flex;
   flex-direction: column;
@@ -29,6 +30,7 @@ export default Vue.extend({
 }
 
 .logo {
+  // 你好
   height: 200rpx;
   width: 200rpx;
   margin: 200rpx auto 50rpx auto;
